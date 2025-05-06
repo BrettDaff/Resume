@@ -16,8 +16,11 @@ I am a data science student with a comprehensive foundation in Python programmin
 ## Technical Skills
 
 •	Languages: Python, SQL
+
 •	Libraries & Tools: pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, Plotly
+
 •	Tools & Platforms: Jupyter Notebooks, Git, IBM Watson Studio, MySQL
+
 •	Concepts: Machine learning, data visualization, exploratory data analysis (EDA), relational databases, data wrangling, AI fundamentals
 
 ## Certifications & Education
@@ -25,17 +28,27 @@ I am a data science student with a comprehensive foundation in Python programmin
 ### IBM Data Science Professional Certificates 
 
 •	Applied Data Science Capstone
+
 •	Data Science Methodology
+
 •	Tools for Data Science
+
 •	Machine Learning with Python
+
 •	Data Visualization with Python
+
 •	Data Analysis with Python
+
 •	Python for Data Science, AI & Development
+
 •	Python Project for Data Science
+
 •	Databases and SQL for Data Science with Python
+
 •	Generative AI: Elevate Your Data Science Career
 
 ## Projects
 
 My completed projects are summarized and available for viewing on my GitHub profile.
+
 https://github.com/BrettDaff 
