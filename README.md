@@ -1,5 +1,5 @@
 # Resume
-Brett Daffron
+Brett Daffron/
 573-470-5104
 brettdaffron@gmail.com
 Bowling Green, Mo
